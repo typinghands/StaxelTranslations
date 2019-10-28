@@ -39,60 +39,60 @@ staxel.village.dialogue.Meek.line:10001800=Preferisco pensare attentamente a ci�
 //[Reference] 'Plan ahead so that I don't say anything stupid, you know?'
 staxel.village.dialogue.Meek.line:10001900=Pianifica in anticipo in modo da non dire nulla di stupido, mi capisci?
 //TODO Translate [Reference] 'Just the other day I was strolling through the forest...'
-staxel.village.dialogue.Meek.line:10002000=
+staxel.village.dialogue.Meek.line:10002000=Proprio l'altro giorno stavo passeggiando per la foresta.
 //TODO Translate [Reference] 'I like spending some time in the nature sometimes, see...'
-staxel.village.dialogue.Meek.line:10002100=
+staxel.village.dialogue.Meek.line:10002100=Mi piace passare un po' di tempo nella natura a volte, sai...
 //TODO Translate [Reference] 'But then there was this terrifying moaning.'
-staxel.village.dialogue.Meek.line:10002200=
+staxel.village.dialogue.Meek.line:10002200=Ma poi ci fu questo terrificante lamento.
 //TODO Translate [Reference] 'I haven't been able to work up the courage to go back since...'
-staxel.village.dialogue.Meek.line:10002300=
+staxel.village.dialogue.Meek.line:10002300=Non sono stato in grado di trovare il coraggio di tornare indietro da allora.....
 //TODO Translate [Reference] 'Hmm, you want to know a bit more about the island's ^c:1486b0;butterflies^c:pop;?'
-staxel.village.dialogue.Meek.line:10002400=
+staxel.village.dialogue.Meek.line:10002400=Mhh, vorresti sapere di piu sulle ^c:1486b0;farfalle^c:pop; di quest'isola?
 //TODO Translate [Reference] 'Well I suppose there are a fair number of varieties. You've most likely seen the common ones already.'
-staxel.village.dialogue.Meek.line:10002500=
+staxel.village.dialogue.Meek.line:10002500=Beh, suppongo che ci sia un buon numero di varietà. Molto probabilmente avete già visto quelle comuni.
 //TODO Translate [Reference] 'Amongst the rare we have ^c:1486b0;monarch butterflies^c:pop; and ^c:1486b0;zebra butterflies^c:pop;.'
-staxel.village.dialogue.Meek.line:10002600=
+staxel.village.dialogue.Meek.line:10002600=Tra quelle rare abbiamo ^c:1486b0;la farfalla monarca^c:pop; e ^c:1486b0;le farfalle zebra^c:pop;.
 //TODO Translate [Reference] 'I think there were ^c:1486b0;emperor butterflies^c:pop; around here too.'
-staxel.village.dialogue.Meek.line:10002700=
+staxel.village.dialogue.Meek.line:10002700='Penso ci fossero anche ^c:1486b0;farfalle imperatore^c:pop; da queste parti.'
 //TODO Translate [Reference] 'There could be more, but I think those are the important ones.'
-staxel.village.dialogue.Meek.line:10002800=
+staxel.village.dialogue.Meek.line:10002800=Potrebbero essercene altre, ma penso che queste siano quelle importanti.
 //TODO Translate [Reference] '...^c:1486b0;{0-playername}^c:pop;?'
-staxel.village.dialogue.Meek.line:10002900=
+staxel.village.dialogue.Meek.line:10002900=...^c:1486b0;{0-playername}^c:pop;?
 //TODO Translate [Reference] 'How can I help you today?'
-staxel.village.dialogue.Meek.line:10003000=
+staxel.village.dialogue.Meek.line:10003000=Come posso aiutarti oggi?
 //TODO Translate [Reference] 'A ^c:d03e37;gift^c:pop; for me? From ^c:1486b0;Cecile^c:pop;?'
-staxel.village.dialogue.Meek.line:10003100=
+staxel.village.dialogue.Meek.line:10003100=Un ^c:d03e37;regalo^c:pop; per me? Da ^c:1486b0;Cecile^c:pop;?
 //TODO Translate [Reference] 'I'm not sure what I did to deserve this, but please convey my thanks!'
-staxel.village.dialogue.Meek.line:10003200=
+staxel.village.dialogue.Meek.line:10003200=Non sono sicuro di quello che ho fatto per meritare questo, ma vi prego di ringraziarla!
 //TODO Translate [Reference] 'I wonder if she's been getting the wrong idea about something...'
-staxel.village.dialogue.Meek.line:10003300=
+staxel.village.dialogue.Meek.line:10003300=Mi chiedo se si sia fatta un'idea sbagliata su qualcosa.....
 //TODO Translate [Reference] '^c:1486b0;{0-playername}^c:pop;...'
-staxel.village.dialogue.Meek.line:10003400=
+staxel.village.dialogue.Meek.line:10003400=^c:1486b0;{0-playername}^c:pop;...
 //TODO Translate [Reference] 'D...did you see...'
-staxel.village.dialogue.Meek.line:10003500=
+staxel.village.dialogue.Meek.line:10003500=H...hai visto...
 //TODO Translate [Reference] 'A monster...'
-staxel.village.dialogue.Meek.line:10003600=
+staxel.village.dialogue.Meek.line:10003600=Un mostro...
 //TODO Translate [Reference] 'A real monster...'
-staxel.village.dialogue.Meek.line:10003700=
+staxel.village.dialogue.Meek.line:10003700=Un vero mostro...
 //TODO Translate [Reference] 'A gift...? Now...?'
-staxel.village.dialogue.Meek.line:10003800=
+staxel.village.dialogue.Meek.line:10003800=Un regalo...? Ora...?
 //TODO Translate [Reference] 'Thank you, but it's not really the best time...'
-staxel.village.dialogue.Meek.line:10003900=
+staxel.village.dialogue.Meek.line:10003900=Grazie, ma non è proprio il momento migliore.....
 //TODO Translate [Reference] '^c:1486b0;{0-playername}^c:pop;! You have no idea how glad I am to see you!'
-staxel.village.dialogue.Meek.line:10004000=
+staxel.village.dialogue.Meek.line:10004000=^c:1486b0;{0-playername}^c:pop;! Non hai idea come sono felice di vederti!
 //TODO Translate [Reference] 'I was worried ^c:1486b0;Cecile^c:pop; would be the one to come by with her...^c:1486b0;monster^c:pop;...'
-staxel.village.dialogue.Meek.line:10004100=
+staxel.village.dialogue.Meek.line:10004100=Ero preoccupato ^c:1486b0;Cecile^c:pop; sarebbe stato lui a venire con lei...^c:1486b0;mostro^c:pop;...
 //TODO Translate [Reference] 'Believe it or not, I do know someone who might be interested...'
-staxel.village.dialogue.Meek.line:10004200=
+staxel.village.dialogue.Meek.line:10004200=Che ci crediate o no, conosco qualcuno che potrebbe essere interessato...
 //TODO Translate [Reference] '^c:1486b0;One of my sisters^c:pop; happens to have a soft spot for...unusual pets...'
-staxel.village.dialogue.Meek.line:10004300=
+staxel.village.dialogue.Meek.line:10004300=^c:1486b0;Una delle mie sorelle^c:pop; ha un punto debole per...... gli animali domestici insoliti.....
 //TODO Translate [Reference] 'If you could get this ^c:d03e37;letter^c:pop; to one of the ^c:1486b0;merchants^c:pop;, they can pass it on.'
-staxel.village.dialogue.Meek.line:10004400=
+staxel.village.dialogue.Meek.line:10004400=Se potessi dare questa ^c:d03e37;lettera^c:pop; ad uno dei ^c:1486b0;mercanti^c:pop;, la possono distribuire.
 //TODO Translate [Reference] 'They travel around the world a lot after all.'
-staxel.village.dialogue.Meek.line:10004500=
+staxel.village.dialogue.Meek.line:10004500=Dopo tutto, viaggiano molto in giro per il mondo.
 //TODO Translate [Reference] '^c:1486b0;Max^c:pop; is asking if the store is ready to cope with the increase in demand?'
-staxel.village.dialogue.Meek.line:10004600=
+staxel.village.dialogue.Meek.line:10004600=^c:1486b0;Max^c:pop; sta chiedendo se il negozio é pronto per gestire l'aumento della clientela?
 //TODO Translate [Reference] 'I think...he's probably overestimating how popular this event is going to be...'
-staxel.village.dialogue.Meek.line:10004700=
+staxel.village.dialogue.Meek.line:10004700=Penso....che probabilmente sta sopravvalutando quanto popolare sarà questo evento......
 //TODO Translate [Reference] 'But tell him I said yes. I don't see any problems.'
-staxel.village.dialogue.Meek.line:10004800=
+staxel.village.dialogue.Meek.line:10004800=Ma digli che ho detto di sì. Non vedo alcun problema.
